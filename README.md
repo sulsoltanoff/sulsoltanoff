@@ -11,7 +11,7 @@ In my work, I use the following stack of technologies:🔨
 - Docker
 
 ### I'm on social media ✋
-- Telegram [@soltanoff_98](https://t.me/soltanoff_98){:target="_blank"}
+- Telegram [@soltanoff_98](https://t.me/soltanoff_98 target="_blank")
 
 <!--
 **sulsoltanoff/sulsoltanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
