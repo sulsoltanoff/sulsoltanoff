@@ -4,9 +4,8 @@ Hi, I'm Sultan. I am a developer from Russia. I develop open source projects and
 I work on UNIX like systems and write code in vim (Not always true, but most👀).
 
 In my work, I use the following stack of technologies:🔨
-- Golang
-- JavaScript
-- VueJs and ReactJS
+- NodeJS / TS / JS
+- VueJS and ReactJS
 - PostgreSQL
 - Docker
 
