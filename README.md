@@ -10,6 +10,15 @@ In my work, I use the following stack of technologies:🔨
 - PostgreSQL
 - Docker
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sulsoltanoff.sulsoltanoff)
+[<img alt="github" src="https://img.shields.io/badge/github-sulsoltanoff-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/sulsoltanoff)
+
+# :octocat: Github contributions
+<img src="https://github-readme-stats.vercel.app/api?username=sulsoltanoff&show_icons=true&count_private=true&theme=dracula" alt="sulsoltanoff" />
+
+# ⚡ Favorite languages and tools
+
+
 ### I'm on social media ✋
 - Telegram [@soltanoff_98](https://t.me/soltanoff_98)
 - Linkedin [soltanoff](https://www.linkedin.com/in/soltanoff98/)
@@ -17,5 +26,3 @@ In my work, I use the following stack of technologies:🔨
 
 ## About me 🤟
 
-
-[go-shield]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
