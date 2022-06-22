@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-Hi, I'm Sultan. I am a developer from Russia. I develop open source projects and launch startups. I like to spend 24/7 at my laptop.💻
-I work on UNIX like systems and write code in vim (Not always true, but most👀).
+Hi, I'm Sultan. I'm a backend developer. I develop open source projects to automate routine processes and improve user experience. Launching startups into space 🚀. Not one has flown yet 🤷🏾‍♂️...
 
 🌱 I'm the founders of [Corpsolutions](https://github.com/corpsolutions)
 
