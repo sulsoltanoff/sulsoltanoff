@@ -3,7 +3,9 @@
 Hi, I'm Sultan. I am a developer from Russia. I develop open source projects and launch startups. I like to spend 24/7 at my laptop.💻
 I work on UNIX like systems and write code in vim (Not always true, but most👀).
 
-In my work, I use the following stack of technologies:🔨
+🌱 I'm the founders of [Corpsolutions](https://github.com/corpsolutions)
+
+# ⚡ Favorite languages and tools
 - .Net Core, C#
 - NodeJS / TS / JS
 - ReactJS
@@ -16,13 +18,9 @@ In my work, I use the following stack of technologies:🔨
 # :octocat: Github contributions
 <img src="https://github-readme-stats.vercel.app/api?username=sulsoltanoff&show_icons=true&count_private=true&theme=dracula" alt="sulsoltanoff" />
 
-# ⚡ Favorite languages and tools
-
 
 ### I'm on social media ✋
 - Telegram [@soltanoff_98](https://t.me/soltanoff_98)
 - Linkedin [soltanoff](https://www.linkedin.com/in/soltanoff98/)
 - My personal web site [soltanoff.ru](https://soltanoff.ru)
-
-## About me 🤟
 
