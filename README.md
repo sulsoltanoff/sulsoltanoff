@@ -5,7 +5,7 @@ Hi, I'm Sultan. I'm a backend developer. I develop open source projects to autom
 🌱 I'm the founders of [Corpsolutions](https://github.com/corpsolutions)
 
 # ⚡ Favorite languages and tools
-- .Net Core, C#
+- Golang
 - NodeJS / TS / JS
 - ReactJS
 - PostgreSQL
@@ -16,6 +16,8 @@ Hi, I'm Sultan. I'm a backend developer. I develop open source projects to autom
 
 # :octocat: Github contributions
 <img src="https://github-readme-stats.vercel.app/api?username=sulsoltanoff&show_icons=true&count_private=true&theme=dracula" alt="sulsoltanoff" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulsoltanoff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### I'm on social media ✋
