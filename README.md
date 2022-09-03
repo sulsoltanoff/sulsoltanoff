@@ -23,5 +23,4 @@ Hi, I'm Sultan. I'm a backend developer. I develop open source projects to autom
 ### I'm on social media ✋
 - Telegram [@soltanoff_98](https://t.me/soltanoff_98)
 - Linkedin [soltanoff](https://www.linkedin.com/in/soltanoff98/)
-- My personal web site [soltanoff.ru](https://soltanoff.ru)
 
