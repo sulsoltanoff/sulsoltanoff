@@ -2,7 +2,7 @@
 
 Hi, I'm Sultan. I'm a backend developer. I develop open source projects to automate routine processes and improve user experience. Launching startups into space 🚀. Not one has flown yet 🤷🏾‍♂️...
 
-🌱 I'm the founders of [Corpsolutions](https://github.com/corpsolutions)
+🌱 I'm the founders of [Corpspace](https://github.com/corpspace-tech)
 
 # ⚡ Favorite languages and tools
 - Golang
