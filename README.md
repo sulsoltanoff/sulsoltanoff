@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Sultan. I'm a backend developer. I develop open source projects to automate routine processes and improve user experience. Launching startups into space 🚀. Not one has flown yet 🤷🏾‍♂️...
+Hi, I'm Sultan. I'm a backend developer. I develop open source projects to automate routine processes and improve user experience. Launching startups into space 🚀.
 
 🌱 I'm the founders of [Corpspace](https://github.com/corpspace-tech)
 
