@@ -17,7 +17,7 @@
 <img src="https://streak-stats.demolab.com?user=sulsoltanoff&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="sulsoltanoff" />
 
 ## 🧑‍💻 Favorite project
-[![Corpspace](https://github-readme-stats.vercel.app/api/pin/?username=corpspace-tech&repo=corpspace-platform&theme=vue-dark" alt="sulsoltanoff")](https://github.com/corpspace-tech/corpspace-platform)
+[![Corpspace](https://github-readme-stats.vercel.app/api/pin/?username=corpspace-tech&repo=corpspace-platform&theme=vue-dark)](https://github.com/corpspace-tech/corpspace-platform)
 
 
 ### 🌐 Social media
