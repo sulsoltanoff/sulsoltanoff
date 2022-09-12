@@ -13,7 +13,8 @@
 <img src="https://skillicons.dev/icons?i=golang,nodejs,typescript,linux,docker,postgres,react" alt="sulsoltanoff" />
 
 ## :octocat: Github contributions
-<img src="https://github-readme-stats.vercel.app/api?username=sulsoltanoff&show_icons=true&count_private=true&theme=vue-dark" alt="sulsoltanoff" /> <img align="right" src="https://streak-stats.demolab.com?user=sulsoltanoff&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="sulsoltanoff" />
+<img src="https://github-readme-stats.vercel.app/api?username=sulsoltanoff&show_icons=true&count_private=true&theme=vue-dark" alt="sulsoltanoff" />
+<img src="https://streak-stats.demolab.com?user=sulsoltanoff&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="sulsoltanoff" />
 
 <h3> 🧑‍💻 Favorite project </h3>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=corpspace-tech&repo=corpspace-platform&theme=vue-dark" alt="sulsoltanoff" />
