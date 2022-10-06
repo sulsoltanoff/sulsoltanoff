@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I'm constantly learning and developing new technologies and principles of team management.
 - 💼 &nbsp; Currently working as an expert in technical support.
-- 🌱 &nbsp; In my spare time I am developing the [Corpspace](https://github.com/corpspace-tech/corpspace-platform) Open Source project.
+- 🌱 &nbsp; In my spare time I am developing the Open Source project.
 - 🎨 &nbsp; I like watching Tarantino westerns and sometimes anime.
 - 🚀 &nbsp; Only hard work and the desire to ride the luck, will bring you success. Good luck and thanks for visiting my page! 
 
