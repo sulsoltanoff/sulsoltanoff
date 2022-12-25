@@ -10,7 +10,7 @@
 - 🚀 &nbsp; Only hard work and the desire to ride the luck, will bring you success. Good luck and thanks for visiting my page! 
 
 <h3> ⚡ Favorite languages and tools </h3>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,golang,nodejs,linux,docker,postgres,react,kubernetes,git,github,gitlab,redis,mongo" alt="sulsoltanoff" />
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,typescript,golang,nodejs,linux,docker,postgres,react,kubernetes,git,github,gitlab,redis,mongo" alt="sulsoltanoff" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulsoltanoff&langs_count=10" alt="sulsoltanoff" />
 
 ## :octocat: Github contributions
