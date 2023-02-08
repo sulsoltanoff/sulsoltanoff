@@ -27,3 +27,5 @@
 <h3> ⚡ Favorite languages and tools </h3>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,typescript,linux,docker,postgres,angular,java,kubernetes,git" alt="sulsoltanoff" />
 
+---
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsulsoltanoff&countColor=%23f47373&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsulsoltanoff)
