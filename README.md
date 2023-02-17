@@ -11,9 +11,13 @@
   
 ## :octocat: Github Stats
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulsoltanoff&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sulsoltanoff&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sulsoltanoff&theme=github_dark" />
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulsoltanoff&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sulsoltanoff&theme=github_dark" /> -->
+  <img src="https://streak-stats.demolab.com?user=sulsoltanoff&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sulsoltanoff&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulsoltanoff&langs_count=4&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulsoltanoff&theme=2077" />
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sulsoltanoff&theme=github_dark" /> -->
 </p>
 
 
