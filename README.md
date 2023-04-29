@@ -29,7 +29,7 @@
 
 
 <h3> ⚡ Favorite languages and tools </h3>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,typescript,linux,docker,postgres,angular,java,kubernetes,git" alt="sulsoltanoff" />
+<img src="https://skillicons.dev/icons?i=go,cs,nodejs,typescript,linux,docker,postgres,angular,kubernetes,git" alt="sulsoltanoff" />
 
 <h3>Achievements</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=sulsoltanoff&theme=onedark" alt="achievements" />
