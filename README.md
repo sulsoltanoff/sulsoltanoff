@@ -22,7 +22,7 @@
 <p>
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulsoltanoff&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sulsoltanoff&theme=github_dark" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulsoltanoff&layout=donut&theme=dark" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulsoltanoff&layout=donut&theme=dark" /> -->
   <img src="https://streak-stats.demolab.com?user=sulsoltanoff&theme=dark&border_radius=4&date_format=j%20M%5B%20Y%5D" />
   <img src="https://github-readme-stats.vercel.app/api?username=sulsoltanoff&show_icons=true&theme=dark" />
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulsoltanoff&theme=2077" /> -->
@@ -31,9 +31,8 @@
 
 
 ### 🌐 Social media
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soltanoff98/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soltanoff_98)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Sultan00222557)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulsoltanoff/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soltanoffsu)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto://soltanoff@tuta.io)
 
 
