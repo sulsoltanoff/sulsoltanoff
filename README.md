@@ -1,5 +1,5 @@
 <!-- <h1>Hello! I'm Sultan 👋</h1> -->
-# <img src="./github-header-image.png" />
+# <img src="./Soltanoff-Cover.png" />
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="50" height="50" /> About Me </h3>
 
