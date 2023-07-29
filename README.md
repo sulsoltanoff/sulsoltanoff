@@ -34,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulsoltanoff/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soltanoffsu)
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto://soltanoff@tuta.io)
-
+[![iCloud](https://img.shields.io/static/v1?style=for-the-badge&message=iCloud&color=3693F3&logo=iCloud&logoColor=FFFFFF&label=)](mailto://sulsoltanoff@icloud.com)
 
 <h3> ⚡ Favorite languages and tools </h3>
 <img src="https://skillicons.dev/icons?i=go,cs,nodejs,typescript,linux,docker,postgres,angular,kubernetes,git" alt="sulsoltanoff" />
