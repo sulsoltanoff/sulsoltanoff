@@ -1,14 +1,14 @@
 <!-- <h1>Hello! I'm Sultan 👋</h1> -->
 # <img src="./cover-github.png" />
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="50" height="50" /> About Me </h3>
+<h3> About Me </h3>
 
-💡 Tech-Savvy Trailblazer | 💼 Customer Loyalty Expert | 🌱 Open Source Enthusiast | 🎬 Cinema Connoisseur | 🚀 Ambitious Dreamer
+💡 Tech-Savvy Trailblazer | 💼 System analytic | 🌱 Open Source Enthusiast | 🎬 Cinema Connoisseur | 🚀 Ambitious Dreamer
 - 🌟 Welcome to my Github profile! 🌟
 
 - 🔭 With an unyielding passion for technology, I relentlessly pursue the forefront of the ever-evolving IT industry. I am a constant learner, immersing myself in the realm of new and emerging technologies, and staying ahead of the curve by keeping up with the latest trends and advancements.
 
-- 💼 Currently, I thrive as an expert in maintaining customer loyalty within a prominent B2B IT company. In this role, I adeptly navigate conflict and ambiguity, delivering quality and transparency to customers who entrust us with their services. As a practiced project manager, I meticulously organize my work and foster effective communication to ensure the seamless delivery of results for both myself and my team.
+- 💼 Currently, I excel as a System Analyst within a leading B2B IT company, specializing in the development and optimization of internal tools and platforms. I leverage my strong analytical skills and project management expertise to translate complex business needs into actionable technical requirements, ensuring seamless collaboration between business stakeholders and development teams. I am passionate about driving efficiency and innovation through technology, and I am committed to delivering high-quality solutions that streamline processes and improve overall business outcomes.
 
 - 🌱 Beyond the confines of my professional realm, my free time is dedicated to nurturing various Open Source projects. I wholeheartedly believe in the transformative power of open-source technology, and I take immense pride in being an active contributor to the movement that fuels innovation and collaboration.
 
@@ -33,7 +33,6 @@
 ### 🌐 Social media
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulsoltanoff/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/soltanoffsu)
-[![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto://soltanoff@tuta.io)
 [![iCloud](https://img.shields.io/static/v1?style=for-the-badge&message=iCloud&color=3693F3&logo=iCloud&logoColor=FFFFFF&label=)](mailto://sulsoltanoff@icloud.com)
 
 <h3> ⚡ Favorite languages and tools </h3>
