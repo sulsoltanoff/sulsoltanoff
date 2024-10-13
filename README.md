@@ -1,5 +1,4 @@
 <!-- <h1>Hello! I'm Sultan 👋</h1> -->
-# <img src="./cover-github.png" />
 
 <h3> About Me </h3>
 
